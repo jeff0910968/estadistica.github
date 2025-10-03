@@ -1,0 +1,65 @@
+---
+title: "Habitos, Conocimientos y Preferencias sobre el Futbol"
+author: "Jefferson Granados Rodriguez"
+date: "2025-09-29"
+output:
+  html_document:
+    theme: journal
+    toc: yes
+    toc_float:
+     collapsed: true
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduccion
+
+## Proposito del cuestionario:
+
+Se quiere conocer los habitos, intereses y opiniones de las personas con el tema del futbol, con el fin de recopilar informacion para realizar un estudio o ver tendencias que se da en la mayoria de personas 
+
+## Importancia del estudio:
+
+Tambien es un cuestionario muy importante porque hoy en dia el futbol es el deporte mas practicado en el mundo y por eso es muy importante analizar que tedencias tiene este mismo o ver como influye este deporte en la vida de las personas 
+
+## Algunas instrucciones son:
+
+A- Responder todas las preguntas de manera sincera
+
+B- No hay respuestas correctas o incorrectas, todas las opiniones son validas 
+
+C- Marque la opcion que mejor represente su situacion 
+
+## Confidencialidad y uso de los datos:
+
+En este cuestionario la informacion recibida por parte del cuestionario sera utilizada unicamente con fines academicos 
+
+# Poblacion Meta 
+
+## Caracteristicas demograficas:
+
+Se basa en personas aficionadas al futbol, ya sean estudiantes, deportistas o cualquier publico en general
+
+## Criterios de inclusion:
+
+Personas con algun conocimiento de futbol o que lo practiquen 
+
+## Criterios de exclusion:
+
+Personas con cero conocimiento del futbol o que no lo practiquen 
+
+## Tamaño estimado de la poblacion:
+
+Esto depende del alcance que se quiera realizar, ya sea de solo estudiantes o de personas en general 
+
+# Objetivo General 
+
+Identificar y analizar los habitos, conocimientos y percepciones de la poblacion sobre el futbol, con el fin de conocer el impacto en el ambito deportivo y social
+
+# Implementacion en Microsoft Forms 
+
+Cuestionario sobre futbol:
+  
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASSI9apUOUdBMDU2TVhBNTJRQUwyMTFIV0FSRUY3Ri4u
